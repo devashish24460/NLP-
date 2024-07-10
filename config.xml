@@ -1,0 +1,4 @@
+<config>
+    <input_folder>/path/to/input/folder</input_folder>
+    <output_folder>/path/to/output/folder</output_folder>
+</config>
